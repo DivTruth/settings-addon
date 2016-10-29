@@ -34,4 +34,4 @@ Roadmap
 
 Contribution
 -------
-If you would like to contribute to this addon please fork and submit a pull request. If you have questions you can reach out to us directly on [Twitter](https://twitter.com/DivTruth). If you have a feature request please submit [here](https://github.com/DivTruth/oauth-addon/issues)
+If you would like to contribute to this addon please fork and submit a pull request. If you have questions you can reach out to us directly on [Twitter](https://twitter.com/DivTruth). If you have a feature request please submit [here](https://github.com/DivTruth/settings-addon/issues)
