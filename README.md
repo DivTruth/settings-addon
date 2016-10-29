@@ -21,6 +21,8 @@ Quick Start
 -----------
 * Simple add this package to your Div Starter (or Site Application) within `/mu-plugins/`. Assuming [Div Library](https://github.com/DivTruth/div-library) is activated the add on should be initiated. Notice new menu option to "Site Options" and its child pages
 
+![site-options](https://github.com/DivTruth/settings-addon/blob/assets/site-options.png?raw=true)
+
 FAQ
 ---
 * For questions please tweet us [@DivTruth](https://twitter.com/DivTruth)
