@@ -1,7 +1,7 @@
-Site Menus Addon
+Settings Addon
 ========
 
-The Site Menus Addon provides a simple structure for adding new ACF option pages and menus to your WordPress dashboard. By default it comes with "Settings" and "Information". The scope for this add on needs to be more clearly defined, but for now it makes it easy to register new pages making them available to other addons.
+The Settings Addon provides a simple structure for custom dashboard settings (using ACF). Easily add new ACF option pages and menus to your dashboard sidebar. By default it comes with "Settings" and "Information". The scope for this add on needs to be more clearly defined, but for now it makes it easy to register new pages making them available to other addons.
 
 **DISCLAIMER:** This is a [Div Starter](https://github.com/DivTruth/div-starter) addon which can be used as is or serve as a boiler plate to your site's application. If you have questions about Div Starter please see the documenation there. Also, if you haven't already please read the [Div Blend Approach](http://divblend.com/div-blend/) which outlines the framework and its intentions.
 
